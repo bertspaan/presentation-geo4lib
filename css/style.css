@@ -3,11 +3,6 @@ body {
   font-size: 38px;
 }
 
-/* body, .reveal a, .reveal a:visited,
-#caption a, #caption a:visited {
-  color: black;
-} */
-
 .reveal .slides > section {
   height: 100%;
   padding: 0;
